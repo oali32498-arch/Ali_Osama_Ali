@@ -15,7 +15,7 @@
 🛡️ Interested in Offensive Security, SOC Operations, Network Security & Threat Detection
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ali Osama Ali\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
