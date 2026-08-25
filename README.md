@@ -288,9 +288,9 @@ Training covered:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat\&logo=linkedin\&logoColor=white)](linkedin.com/in/ali-osama22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Osama-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-osama22/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Ali Osama Ali)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:oali32498@gmail.com)
 
