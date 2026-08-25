@@ -1,103 +1,313 @@
 # Ali_Osama_Ali 
-<div align="center" width="50">
+# 🛡️ Ali Osama — Cybersecurity Engineer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<div align="center">
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Cybersecurity" width="55%"/>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<br/>
 
-</details>
+# Hi there, I'm Ali Osama 👋
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+### Cybersecurity Engineer | Vulnerability Assessment | Penetration Testing | Network Security
+
+<p>
+🎓 B.Sc. in Artificial Intelligence — Cybersecurity Specialization<br/>
+🏫 Menoufia University | Class of 2026<br/>
+🛡️ Interested in Offensive Security, SOC Operations, Network Security & Threat Detection
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+## 👨‍💻 About Me
 
-```dart
-// tools_I_use organized
+Cybersecurity-focused Artificial Intelligence graduate with hands-on training in **Security Operations Center (SOC) operations, SIEM monitoring, vulnerability assessment, penetration testing, network security, IDS/IPS, firewall configuration, and incident analysis**.
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+I have completed multiple cybersecurity training programs and hands-on internships covering **offensive security, SOC operations, network infrastructure, and network security**.
+
+My main interests include:
+
+* 🔍 Vulnerability Assessment
+* 🧪 Penetration Testing & Ethical Hacking
+* 🛡️ SOC Operations & Threat Detection
+* 📊 SIEM Monitoring using Splunk
+* 🌐 Network & Infrastructure Security
+* 🚨 Incident Analysis & Response
+* 🔥 Firewall Configuration & Access Control
+* 🐧 Linux & Kali Linux
+
+---
+
+# 🛠️ Cybersecurity Arsenal
+
+### 🔐 Security & Offensive Security
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat\&logo=kali-linux\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat\&logo=wireshark\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat\&logo=burpsuite\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat\&logo=splunk\&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat)
+
+### 🌐 Networking & Infrastructure
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat\&logo=cisco\&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat\&logo=huawei\&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-4CAF50?style=flat)
+![Firewall](https://img.shields.io/badge/Firewall-FF6B6B?style=flat)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8E44AD?style=flat)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat)
+
+### 💻 Programming & Operating Systems
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat\&logo=windows\&logoColor=white)
+
+---
+
+# 🎯 Core Skills
+
+```text
+🛡️ Security Operations
+SOC Monitoring • SIEM (Splunk) • IDS/IPS (Snort)
+Threat Detection • Incident Analysis • Incident Response
+Risk Management • Access Control • Firewall Configuration
+
+🔍 Offensive Security
+Vulnerability Assessment • Penetration Testing
+Ethical Hacking • Security Testing • Technical Reporting
+
+🌐 Networking
+Network Fundamentals • Network Security
+Switching & Routing • Cisco Packet Tracer
+Network Infrastructure
+
+💻 Programming & Systems
+Python • C++ • JavaScript • HTML
+Linux • Kali Linux • Operating Systems
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+---
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+# 🎓 Training & Professional Development
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+## 🔴 Vulnerability Assessment & Penetration Testing
 
-</a>
+### Vulnerability Analyst / Penetration Tester Trainee
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+**Digital Egypt Pioneers Initiative (DEPI)**
+📅 Nov 2024 – May 2025
 
-</details>
-  
-<hr></hr>
+* Performed vulnerability assessments and penetration testing across multiple target systems.
+* Applied ethical hacking methodologies to identify and analyze security weaknesses.
+* Documented findings and prepared structured technical security reports.
+* Gained hands-on experience in vulnerability analysis and penetration testing methodologies.
 
-**Code Cycle**<br>
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+## 🔵 CyberOps Associate Training
 
+### CyberOps Associate Trainee
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+**National Telecommunication Institute (NTI)**
+📅 Jan 2025 – Mar 2025
+
+**90 Hours — Technical Training**
+
+* Networking fundamentals
+* SOC Operations
+* SIEM Monitoring using Splunk
+* Incident Analysis
+* Threat Detection
+* Incident Response
+
+**30 Hours — Professional Skills**
+
+* Leadership
+* Teamwork
+* Problem Solving
+* Negotiation
+* CV Writing
+
+---
+
+## 🟢 Network Security Training
+
+### Network Security Trainee
+
+**National Telecommunication Institute (NTI) — Summer Program**
+📅 Jul 2025 – Aug 2025
+
+**90 Hours — Technical Training**
+
+* Risk Management
+* Access Control
+* Firewall Configuration
+* Network Security Design
+* Cisco Packet Tracer Configuration
+
+**30 Hours — Professional Skills**
+
+* Interview Preparation
+* Communication
+* Presentation Skills
+* Conflict Management
+
+---
+
+## 🟠 Network Infrastructure Training
+
+### Network Infrastructure Trainee
+
+**Information Technology Institute (ITI) — Summer Training**
+📅 Aug 2025 – Sep 2025
+
+Training included:
+
+* Computer Network Essentials
+* Switching & Routing
+* Network Infrastructure
+* IDS/IPS Concepts
+* Hacking Techniques
+* HCCDA – Tech Essentials
+
+---
+
+## 🔵 HCIA-Security Training
+
+### HCIA-Security — Huawei Certified ICT Associate
+
+**National Telecommunication Institute (NTI)**
+📅 Dec 2025 – Jan 2026
+
+Training covered:
+
+* Security Fundamentals
+* Huawei Firewall Configuration
+* Access Control
+* Network Device Hardening
+* Network Attacks & Defense Mechanisms
+* Encryption Technologies
+* Security Policy Configuration
+
+---
+
+# 📚 Courses & Certifications
+
+* 🐍 Python Programming Basics
+* 🗄️ Database Fundamentals
+* 🌐 Network Fundamentals
+* 🔐 Network Security
+* 🧑‍💻 Ethical Hacking
+* 🛡️ CyberOps Associate Training
+* 🔥 HCIA-Security Training
+* 🔍 Vulnerability Assessment & Penetration Testing
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Artificial Intelligence
+
+**Specialization: Cybersecurity**
+
+🏫 **Menoufia University**
+📅 2022 – 2026
+📊 GPA: **3.17**
+
+### Relevant Coursework
+
+* Security+
+* Network Fundamentals
+* Network Security
+* Python
+* Operating Systems
+* Database Management
+* Object-Oriented Programming with C++
+* Data Structures
+* Programming for Data Science
+* Artificial Intelligence Basics
+* Machine Learning
+* Deep Learning
+* Mathematics
+* Software Engineering
+
+---
+
+# 👥 Leadership & Activities
+
+### Vice President of HR
+
+**Artificial Intelligence & Emerging Computing Society (AIEC)**
+
+* Led recruitment processes and supported member onboarding.
+* Organized technical workshops and activities.
+* Developed engagement strategies to improve participation.
+* Worked with cross-functional teams and contributed to community activities.
+
+---
+
+# 🏆 Conferences & Events
+
+* 🚀 **Techne Summit Alexandria 2024**
+
+  * Innovation, startups, and emerging technologies.
+
+* 💡 **Cairo ICT**
+
+  * Emerging technologies and startup ecosystems.
+
+---
+
+# 🌍 Languages
+
+* 🇪🇬 Arabic — Native
+* 🇬🇧 English — Proficient
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
 
 </div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛡️ "Security is not a product, but a process."
+
+⭐ Feel free to explore my repositories and connect with me!
+
+</div>
+
 
