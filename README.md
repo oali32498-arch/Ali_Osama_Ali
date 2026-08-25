@@ -15,6 +15,8 @@
 🛡️ Interested in Offensive Security, SOC Operations, Network Security & Threat Detection
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=oali32498-arch)
+
 </div>
 
 ---
