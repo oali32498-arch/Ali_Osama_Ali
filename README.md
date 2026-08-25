@@ -276,9 +276,9 @@ Training covered:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oali32498-arch&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oali32498-arch&layout=compact&theme=tokyonight&hide_border=true" width="41%"/>
 
 </div>
 
