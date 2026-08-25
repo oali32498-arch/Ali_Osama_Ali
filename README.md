@@ -15,9 +15,7 @@
 🛡️ Interested in Offensive Security, SOC Operations, Network Security & Threat Detection
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=https://github.com/oali32498-arch)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-oali32498--arch-181717?style=flat&logo=github&logoColor=white)](https://github.com/oali32498-arch)</div>
 
 ---
 
